@@ -73,13 +73,27 @@
             {
               "name": "Manual Brews — Pourover & Others",
               "price": "₹280 / ₹350",
-              "desc": "Single-origin specialty coffee brewed to order using V60 pourover, moka pot, French press, or AeroPress — highlighting clarity and origin character. Ask us about the bean options.",
+              "desc": "Rare, Single-origin and microlot specialty coffees, 100% Arabica, experimentally fermented, a rotating premium selection of beans - brewed to order using V60 pourover, moka pot, French press, or AeroPress — highlighting clarity and origin character. Ask us about the bean options.",
               "tag": "House Signature",
               "variants": [
                 "Premium single origin",
                 "Exclusive reserve"
               ],
               "addon": "",
+              "soldOut": false,
+              "hidden": false
+            },
+            {
+              "name": "Biscoff Latte",
+              "price": "250/290",
+              "desc": "A rich, sweet, and comforting latte with the classic taste of a biscoff spread and cookie!",
+              "tag": "",
+              "variants": [
+                "Reg",
+                "Large"
+              ],
+              "addon": "",
+              "image": "",
               "soldOut": false,
               "hidden": false
             },
@@ -195,7 +209,7 @@
             {
               "name": "Beverage Add-ons",
               "price": "",
-              "desc": "Hazelnut, caramel, or honey syrup ₹50 · decaf option ₹80 · vegan milk (almond, oat) ₹80",
+              "desc": "· Hazelnut, caramel, or honey syrup - ₹50\n· Decaf beans (Zero caffeine) - ₹80\n· Vegan milk (almond, oat) ₹80",
               "tag": "",
               "variants": [],
               "addon": "",
@@ -786,6 +800,20 @@
               "hidden": false
             },
             {
+              "name": "Authentic Japanese Ramen Bowl",
+              "price": "370/430",
+              "desc": "Authentic Japanese Ramen bowl - not the instant, spicy Korean one. This is with a proper broth, seaweed (Nori), and the flavours of Japan. This is Ramen, the way it was meant to be. You can still make it spicy and ask for the Korean spicy sauce!",
+              "tag": "",
+              "variants": [
+                "Veg",
+                "Chicken"
+              ],
+              "addon": "Add-on: Bacon, Sausages - 90 each",
+              "image": "",
+              "soldOut": false,
+              "hidden": false
+            },
+            {
               "name": "Italian Classic Pasta",
               "price": "₹270 / ₹290",
               "desc": "Penne or spaghetti in Arrabbiata (spicy tomato) or Alfredo (cream and parmesan) sauce.",
@@ -1181,9 +1209,9 @@
               "hidden": false
             },
             {
-              "name": "French Toast",
-              "price": "₹270",
-              "desc": "French toast with a balanced nutrition profile.",
+              "name": "Protein French Toast",
+              "price": "₹410",
+              "desc": "French toast with a balanced nutrition profile. We add protein powder and use a high protein aata blend.",
               "tag": "",
               "variants": [],
               "addon": "Add 10–40 gm extra protein · 40 gm soya / 3 eggs +₹70 · 150 gm meat (chicken / sausage / bacon / ham) +₹150",
