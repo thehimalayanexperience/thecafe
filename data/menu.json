@@ -84,9 +84,22 @@
               "hidden": false
             },
             {
-              "name": "Biscoff Latte",
-              "price": "250/290",
-              "desc": "A rich, sweet, and comforting latte with the classic taste of a biscoff spread and cookie!",
+              "name": "Latte / Flat White / Cappuccino",
+              "price": "₹190 / ₹230",
+              "desc": "Smooth espresso with steamed milk and a layer of foam.",
+              "tag": "",
+              "variants": [
+                "Reg",
+                "Large"
+              ],
+              "addon": "",
+              "soldOut": false,
+              "hidden": false
+            },
+            {
+              "name": "Cinammon Latte",
+              "price": "220/260",
+              "desc": "Cinnamon cradles the classic cafe latte in this, to make your new favourite drink!",
               "tag": "",
               "variants": [
                 "Reg",
@@ -98,15 +111,16 @@
               "hidden": false
             },
             {
-              "name": "Latte / Flat White / Cappuccino",
-              "price": "₹190 / ₹230",
-              "desc": "Smooth espresso with steamed milk and a layer of foam.",
+              "name": "Biscoff Latte",
+              "price": "250/290",
+              "desc": "A rich, sweet, and comforting latte with the classic taste of a biscoff spread and cookie!",
               "tag": "",
               "variants": [
                 "Reg",
                 "Large"
               ],
               "addon": "",
+              "image": "",
               "soldOut": false,
               "hidden": false
             },
