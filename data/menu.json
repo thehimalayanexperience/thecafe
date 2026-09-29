@@ -640,10 +640,7 @@
               "price": "₹180",
               "desc": "Golden, flaky pockets with a flavourful chicken filling and a house dip made with Himalayan chillies.",
               "tag": "",
-              "variants": [
-                "Veg",
-                "Chicken"
-              ],
+              "variants": [],
               "addon": "Add-on: extra cheese ₹50",
               "soldOut": false,
               "hidden": false
