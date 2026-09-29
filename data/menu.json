@@ -39,8 +39,8 @@
     }
   },
   "specials": {
-    "active": false,
-    "title": "Today at the counter",
+    "active": true,
+    "title": "Specials - Try out the Cinammon latte, Banana bread and freshly baked cookies!",
     "note": "",
     "items": []
   },
@@ -98,7 +98,7 @@
             },
             {
               "name": "Cinammon Latte",
-              "price": "220/260",
+              "price": "₹220 / ₹260",
               "desc": "Cinnamon cradles the classic cafe latte in this, to make your new favourite drink!",
               "tag": "",
               "variants": [
@@ -127,7 +127,7 @@
             {
               "name": "Cranberry Coffee",
               "price": "₹240",
-              "desc": "Double shot espresso paired with cranberry juice. Hot or iced.",
+              "desc": "Double shot espresso paired with cranberry juice. Iced.",
               "tag": "",
               "variants": [],
               "addon": "",
@@ -636,9 +636,9 @@
               "hidden": false
             },
             {
-              "name": "Crispy Faley (2 pieces)",
-              "price": "₹150 / ₹180",
-              "desc": "Golden, flaky pockets with a flavourful vegetable or chicken filling and a house dip made with Himalayan chillies.",
+              "name": "Crispy Shya Faley (Chicken) (2 pieces)",
+              "price": "₹180",
+              "desc": "Golden, flaky pockets with a flavourful chicken filling and a house dip made with Himalayan chillies.",
               "tag": "",
               "variants": [
                 "Veg",
@@ -1228,8 +1228,19 @@
               "desc": "French toast with a balanced nutrition profile. We add protein powder and use a high protein aata blend.",
               "tag": "",
               "variants": [],
-              "addon": "Add 10–40 gm extra protein · 40 gm soya / 3 eggs +₹70 · 150 gm meat (chicken / sausage / bacon / ham) +₹150",
+              "addon": "",
               "nutrition": "P 19g · C 40g · F 10g · 326 kcal",
+              "soldOut": false,
+              "hidden": false
+            },
+            {
+              "name": "Add-on items",
+              "price": "",
+              "desc": "Add 10–40 gm extra protein with these add-ons : \n· 40 gm soya / 3 eggs +₹70\n· 150 gm meat (chicken / sausage / bacon / ham)  +₹200",
+              "tag": "",
+              "variants": [],
+              "addon": "",
+              "image": "",
               "soldOut": false,
               "hidden": false
             }
