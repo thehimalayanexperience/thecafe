@@ -39,8 +39,8 @@
     }
   },
   "specials": {
-    "active": true,
-    "title": "Specials - Try out the Cinnamon latte, Banana bread and freshly baked cookies!",
+    "active": false,
+    "title": "Specials - Try out the Mixed fried rice, Mustaang allu, Cranberry coffee:)",
     "note": "",
     "items": []
   },
