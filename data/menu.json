@@ -40,9 +40,15 @@
   },
   "specials": {
     "active": false,
-    "title": "Specials - Try out the Mixed fried rice, Mustaang allu, Cranberry coffee:)",
+    "title": "Specials - Pair freshly baked banana bread and cookies with a cup of brewed coffee :)",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "",
+        "price": "",
+        "desc": ""
+      }
+    ]
   },
   "eventsIntro": "Cuppings, classes and slow evenings. Seats are limited — register and we'll hold yours.",
   "registrationFormUrl": "tally.so/r/KY9ZN8",
