@@ -40,7 +40,7 @@
   },
   "specials": {
     "active": false,
-    "title": "Specials - Pair freshly baked banana bread and cookies with a cup of brewed coffee :)",
+    "title": "Specials - Fish & Chips, Himalayan bruschetta and peach ice tea ;0 ",
     "note": "",
     "items": [
       {
@@ -52,19 +52,7 @@
   },
   "eventsIntro": "Cuppings, classes and slow evenings. Seats are limited — register and we'll hold yours.",
   "registrationFormUrl": "tally.so/r/KY9ZN8",
-  "events": [
-    {
-      "title": "THE COFFEE EXPERIENCE. -Ep. 03",
-      "date": "Sat 19 Sep",
-      "time": "2 pm",
-      "desc": "A rare and unique Coffee Tasting and Storytelling experience where coffee storyteller and brewer Dev Biswas will take you on a journey of 6 rare specialty and microlot coffees, paired with a warm 3 course Himalayan Lunch Menu.\nCome Curious.",
-      "price": "699",
-      "seats": "only 4 seats left",
-      "registerUrl": "",
-      "image": "",
-      "hidden": false
-    }
-  ],
+  "events": [],
   "menus": [
     {
       "id": "beverages",
