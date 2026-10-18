@@ -1209,23 +1209,12 @@
             },
             {
               "name": "Protein Pancakes",
-              "price": "₹280",
+              "price": "₹410",
               "desc": "Protein-focused pancakes.",
               "tag": "",
               "variants": [],
               "addon": "",
               "nutrition": "P 25g · C 25g · F 7g · 263 kcal",
-              "soldOut": false,
-              "hidden": false
-            },
-            {
-              "name": "Protein French Toast",
-              "price": "₹410",
-              "desc": "French toast with a balanced nutrition profile. We add protein powder and use a high protein aata blend.",
-              "tag": "",
-              "variants": [],
-              "addon": "",
-              "nutrition": "P 19g · C 40g · F 10g · 326 kcal",
               "soldOut": false,
               "hidden": false
             },
