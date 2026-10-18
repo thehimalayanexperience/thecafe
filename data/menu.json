@@ -39,14 +39,14 @@
     }
   },
   "specials": {
-    "active": false,
+    "active": true,
     "title": "Specials - Fish & Chips, Himalayan bruschetta and peach ice tea ;0 ",
     "note": "",
     "items": [
       {
-        "name": "",
-        "price": "",
-        "desc": ""
+        "name": "Exclusive Reserve Specialty Coffee Choices",
+        "price": "350",
+        "desc": "Rum, Whiskey, Wine barrel aged, Ratnagiri Yeast Fermented, Harley Fusion Ferment, Kalimpong Coffee, Pineapple fermented"
       }
     ]
   },
