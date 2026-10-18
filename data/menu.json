@@ -40,13 +40,18 @@
   },
   "specials": {
     "active": true,
-    "title": "Specials - Fish & Chips, Himalayan bruschetta and peach ice tea ;0 ",
+    "title": "Specials - Tiramisu French Toast (475), Wok Tossed Thenthuk (Veg or chicken), Hazelnut Coffee Cloud, Tokyo Fog (Matcha) (240)",
     "note": "",
     "items": [
       {
         "name": "Exclusive Reserve Specialty Coffee Choices",
         "price": "350",
-        "desc": "Rum, Whiskey, Wine barrel aged, Ratnagiri Yeast Fermented, Harley Fusion Ferment, Kalimpong Coffee, Pineapple fermented"
+        "desc": "Rum, Whiskey, Wine barrel aged, Frozen Cherry, Ratnagiri Yeast Fermented, Harley Fusion Ferment, Kalimpong Coffee. Recommended brew method - V60 Pourover"
+      },
+      {
+        "name": "Premium specialty coffee",
+        "price": "",
+        "desc": "Pineapple fermented (pourover), Decaf, Monsoon Malabar (espresso based drinks)"
       }
     ]
   },
