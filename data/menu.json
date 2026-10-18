@@ -645,10 +645,10 @@
               "hidden": false
             },
             {
-              "name": "Handmade Thenthuk",
+              "name": "Handmade Thenthuk (Dry or Soupy)",
               "price": "₹250 / ₹280 / ₹310 / ₹350 / ₹380",
               "desc": "A traditional Tibetan hand-pulled flat noodle soup, known for its hearty qualities.",
-              "tag": "",
+              "tag": "House Signature",
               "variants": [
                 "Veg",
                 "Egg",
