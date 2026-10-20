@@ -40,18 +40,23 @@
   },
   "specials": {
     "active": true,
-    "title": "Specials - Tiramisu French Toast (475), Wok Tossed Thenthuk (Veg or chicken), Hazelnut Coffee Cloud, Tokyo Fog (Matcha) (240)",
+    "title": "We appreciate your patience! We're trying to serve you to the best of our ability with a limited number of staff on these holidays.",
     "note": "",
     "items": [
       {
-        "name": "Exclusive Reserve Specialty Coffee Choices",
-        "price": "350",
-        "desc": "Rum, Whiskey, Wine barrel aged, Frozen Cherry, Ratnagiri Yeast Fermented, Harley Fusion Ferment, Kalimpong Coffee. Recommended brew method - V60 Pourover"
+        "name": "Food Specials - Tiramisu French Toast, Pasta, Mustangey aloo, Himalayan Chicken, Thukpa, Noodles, Fried Rice",
+        "price": "",
+        "desc": "Enjoy our Dasai special food menu!"
       },
       {
-        "name": "Premium specialty coffee",
+        "name": "Beverage Specials - Cold brew, cinnamon latte, iced matcha latte, strawberry matcha cloud, espresso sunrise, peach iced tea, house cold coffee",
         "price": "",
-        "desc": "Pineapple fermented (pourover), Decaf, Monsoon Malabar (espresso based drinks)"
+        "desc": "Enjoy our Dasai beverage specials!"
+      },
+      {
+        "name": "Dessert Specials - Tiramisu, Ice Cream, THE Brownie",
+        "price": "",
+        "desc": "Enjoy our Dasai dessert specials!"
       }
     ]
   },
