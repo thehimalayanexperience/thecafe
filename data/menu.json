@@ -40,23 +40,23 @@
   },
   "specials": {
     "active": true,
-    "title": "We appreciate your patience! We're trying to serve you to the best of our ability with a limited number of staff on these holidays.",
+    "title": "Specials of the day!",
     "note": "",
     "items": [
       {
-        "name": "Food Specials - Tiramisu French Toast, Pasta, Mustangey aloo, Himalayan Chicken, Thukpa, Noodles, Fried Rice",
+        "name": "Food Specials - Tiramisu Banana Bread - 270, Tiramisu French Toast - 430",
         "price": "",
-        "desc": "Enjoy our Diwali special food menu!"
+        "desc": "These are outside our regular menu."
       },
       {
-        "name": "Beverage Specials - Cold brew, cinnamon latte, iced matcha latte, strawberry matcha cloud, espresso sunrise, peach iced tea, house cold coffee",
+        "name": "Beverage Specials - Cold brew, cinnamon latte, Orange Matcha Mojito - 250, Strawberry matcha cloud, espresso sunrise, peach iced tea, house cold coffee",
         "price": "",
-        "desc": "Enjoy our Diwali beverage specials!"
+        "desc": "Enjoy our beverage specials"
       },
       {
-        "name": "Dessert Specials - Tiramisu, Ice Cream, THE Brownie",
+        "name": "Dessert Specials - Tiramisu Banana Bread",
         "price": "",
-        "desc": "Enjoy our Diwali dessert specials!"
+        "desc": "Enjoy our special dessert today!"
       }
     ]
   },
